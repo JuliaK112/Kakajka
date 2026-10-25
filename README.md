@@ -10,3 +10,5 @@ x=12
 print(x) 
 y=666
 print(y) 
+z=wertghj
+print(z) 
