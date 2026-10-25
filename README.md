@@ -8,3 +8,5 @@ python app.py
 python app.py
 x=12
 print(x) 
+y=666
+print(y) 
