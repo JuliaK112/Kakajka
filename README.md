@@ -13,3 +13,6 @@ print(y)
 z=wertghj
 print(z) 
 
+d=wefwefwefwefasdsxxcxc
+print(d+z) 
+
