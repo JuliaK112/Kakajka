@@ -16,3 +16,6 @@ print(z)
 d=wefwefwefwefasdsxxcxc
 print(d+z) 
 
+print(d+z) 
+
+print(d-z) 
