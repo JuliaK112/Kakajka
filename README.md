@@ -19,3 +19,6 @@ print(d+z)
 print(d+z) 
 
 print(d-z) 
+
+
+print(d**z) 
